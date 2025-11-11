@@ -1,2 +1,1 @@
-# Campus-Connect-
-University students today face challenges in building meaningful connections within their academic community. While general social media platforms exist, they lack features specifically designed for the unique needs of student life. Such features include finding study partners, discovering campus events, sharing academic resources,
+School students face challenges forming meaningful connections in their academic communities. Campus Connect addresses this by providing features tailored to student life such as study groups, resource sharing, events, and communication. 
